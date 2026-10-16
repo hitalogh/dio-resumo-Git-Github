@@ -1,4 +1,5 @@
 # DIO | Resumos Git e GitHub
+## HITALO GABRIEL
 
 Repositorios para aramazenar resumos sobre Git e GitHub sobre o curso de versionamento de codigoo com Git e GitHUB da [Digital innovation One](https://www.dio.me/)
 
